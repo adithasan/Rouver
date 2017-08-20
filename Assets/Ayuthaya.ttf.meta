@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 75636e2935ebc46aa9a973b239728ec4
+timeCreated: 1500288603
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ayuthaya
+  fontNames:
+  - Ayuthaya
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c26945845fd8a49f78055f6711b8548a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
