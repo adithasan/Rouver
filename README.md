@@ -10,4 +10,5 @@ Possible improvements in the future may include:
 
 Note: One of the skyboxes are missing from the project file. When opening project in Unity, apply one of the available skyboxes in the lighting tab to obtain a background.
 
-![Alt text](/adithasan/Rouver/Screenshot.png?raw=true "GameScreen")
+![alt text](https://raw.githubusercontent.com/adithasan/Rouver/master/Screenshot.png)
+
